@@ -1,6 +1,6 @@
 const ctrl = require("./Controllers/prueba.js");
 const express = require("express");
-
+ 
 const app = express();
 
 app.use(express.json());
